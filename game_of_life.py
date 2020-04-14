@@ -1,4 +1,4 @@
-from .rendering import SimpleImageViewer
+from rendering import SimpleImageViewer
 import numpy as np
 from numpy.random import RandomState
 from skimage.transform import resize
